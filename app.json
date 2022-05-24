@@ -11,7 +11,7 @@
     "CONFIG_FILE_URL": {
       "description": "",
       "value": "",
-      "required": True
+      "required": true
     }
   },
   "stack": "container"
